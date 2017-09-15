@@ -19,6 +19,7 @@
     //nib.
     
     NSString* ch1 = @"6";
+    NSString* ch2 = @"a";
 }
 
 
