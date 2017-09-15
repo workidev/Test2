@@ -18,7 +18,7 @@
     [super viewDidLoad];
     //nib.
     
-    NSString* ch1 = @"4";
+    NSString* ch1 = @"6";
 }
 
 
