@@ -21,6 +21,10 @@
     NSString* ch1 = @"6";
     NSString* ch2 = @"a1";
     NSString* ch3 = @"a2";
+    {
+        NSString* ch2 = @"a2";
+        NSString* ch3 = @"a3";
+    }
 }
 
 
